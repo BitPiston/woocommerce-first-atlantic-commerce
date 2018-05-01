@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: WooCommerce First Atlantic Commerce Gateway
- * Plugin URI:  https://github.com/Strikewood/woocommerce-first-atlantic-commerce
+ * Plugin URI:  https://github.com/bitpiston/woocommerce-first-atlantic-commerce
  * Description: First Atlantic Commerce gateway extension for WooCommerce.
  * Version:     0.1.7
  * Author:      Strikewood Studios
  * Author URI:  http://strikewood.com/
- * License:     MIT
- * License URI: https://github.com/Strikewood/woocommerce-first-atlantic-commerce/blob/master/LICENSE
+ * License:     GPLv2
+ * License URI: https://github.com/bitpiston/woocommerce-first-atlantic-commerce/blob/master/LICENSE
  */
 
 if ( !defined('ABSPATH') ) exit;
