@@ -9,7 +9,7 @@
         "wordpress"
     ],
     "homepage": "https://github.com/bitpiston/woocommerce-first-atlantic-commerce",
-    "license": "GPLv2",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Jan Pingel",
