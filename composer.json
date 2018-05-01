@@ -1,5 +1,5 @@
 {
-    "name": "strikewood/woocommerce-first-atlantic-commerce",
+    "name": "bitpiston/woocommerce-first-atlantic-commerce",
     "description": "First Atlantic Commerce gateway extension for WooCommerce",
     "type": "wordpress-plugin",
     "keywords": [
@@ -8,18 +8,18 @@
         "woocommerce",
         "wordpress"
     ],
-    "homepage": "https://github.com/strikewood/woocommerce-first-atlantic-commerce",
-    "license": "MIT",
+    "homepage": "https://github.com/bitpiston/woocommerce-first-atlantic-commerce",
+    "license": "GPLv2",
     "authors": [
         {
             "name": "Jan Pingel",
-            "email": "jan@strikewood.com"
+            "email": "jpingel@bitpiston.com"
         }
     ],
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/strikewood/omnipay-first-atlantic-commerce.git"
+            "url": "https://github.com/bitpiston/omnipay-first-atlantic-commerce.git"
         }
     ],
     "autoload": {
@@ -28,6 +28,6 @@
     "require": {
         "php": ">=5.6",
         "composer/installers": "~1.0",
-        "strikewood/omnipay-first-atlantic-commerce": "~0.2"
+        "bitpiston/omnipay-first-atlantic-commerce": "~0.2"
     }
 }
